@@ -1,2 +1,3 @@
-Bu Dosyada Bazý Bilgiler Vardýr..
-Çok Önemli Bilgiler Olabilir..
+Bu Dosyada Bazi Bilgiler Vardir..
+Cok Onemli Bilgiler Olabilir..
+Bazi Bilgiler Cok Onemlidir..
